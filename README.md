@@ -25,11 +25,11 @@ This repository contains a boilerplate for creating TypeScript packages, providi
 1. Clone the repository:
 
 
-        git clone https://github.com/your-username/typescript-package-boilerplate.git
+        git clone https://github.com/ComputerKeeda/NpmPackage
 
 2. Change into the project directory:
 
-        cd typescript-package-boilerplate
+        cd NpmPackage
 
 3. Install the dependencies:
 
